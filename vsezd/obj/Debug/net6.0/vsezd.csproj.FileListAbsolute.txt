@@ -1,0 +1,15 @@
+C:\Users\Comp\Desktop\dz8\vsezd\bin\Debug\net6.0\vsezd.exe
+C:\Users\Comp\Desktop\dz8\vsezd\bin\Debug\net6.0\vsezd.deps.json
+C:\Users\Comp\Desktop\dz8\vsezd\bin\Debug\net6.0\vsezd.runtimeconfig.json
+C:\Users\Comp\Desktop\dz8\vsezd\bin\Debug\net6.0\vsezd.dll
+C:\Users\Comp\Desktop\dz8\vsezd\bin\Debug\net6.0\vsezd.pdb
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.AssemblyInfo.cs
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.dll
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\refint\vsezd.dll
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.pdb
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\vsezd.genruntimeconfig.cache
+C:\Users\Comp\Desktop\dz8\vsezd\obj\Debug\net6.0\ref\vsezd.dll
